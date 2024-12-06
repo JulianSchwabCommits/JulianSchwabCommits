@@ -1,4 +1,4 @@
-# Julian Schwab's Portfolio 🌟
+# Julian Schwab's Portfolio
 
 Hi, I'm **Julian Schwab**, a passionate student and aspiring developer based in Zurich, Switzerland. I specialize in **coding**, **building computers**, and **automation**. My goal is to learn and mentally grow as much as possible.
 
