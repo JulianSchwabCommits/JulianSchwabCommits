@@ -22,5 +22,5 @@ Hi, I'm **Julian Schwab**, a passionate student and aspiring developer based in 
 
 ## 📫 Contact Me
 
-- **Privat Mail:** [jla.schwab@gmail.com](mailto\:jla.schwab@gmail.com)
+- **Private Mail:** [jla.schwab@gmail.com](mailto\:jla.schwab@gmail.com)
 
