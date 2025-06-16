@@ -10,12 +10,9 @@ Hi, I'm **Julian Schwab**, a passionate student and aspiring developer based in 
 - 📚 Currently studying at **Berufsschule Winterthur**, pursuing IT with BMS.
 - 🤖 AI Enthusiast, exploring the world of artificial intelligence.
 
-
-
 ## 🔧 Skills
 
-- **Programming Languages:** Python, JavaScript, Java, HTML, CSS.
-- **Frameworks/Tools:** Flutter, GitLab.
+- **Programming Languages:** Python, JavaScript, Java, HTML, CSS
 - **Working on** Machine Learning, App Development.
 
 ---
